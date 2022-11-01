@@ -1,0 +1,64 @@
+{
+    "General": {
+        "Name": "start.exe",
+        "bytes": 63667301,
+        "entropy": "7.469511963197325 (Minimum: 0.0, Maximum: 8.0)",
+        "extension": "application/x-msdownload",
+        "md5": "7481c81ec8fc821cba41bde6e3665728",
+        "mime": "application/x-dosexec",
+        "sha1": "cd2a5e5142befc32702db56ab7efb693987bbf38",
+        "sha256": "16905b7d475afd2e031103a79ba0ce51b94f4255317ada50c2e68896588a6ef3",
+        "size": "60.72MB"
+    },
+    "Sections": {
+        ".data": {
+            "Description": "",
+            "Entropy": "3.5467088627526717 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "4adcbc935d58e6c2c2cb131e4a823b40",
+            "Size": 185856,
+            "Suspicious": "No"
+        },
+        ".pdata": {
+            "Description": "",
+            "Entropy": "6.778343230836277 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "a857bd9b412134cb0909e0927d1f3fe0",
+            "Size": 883200,
+            "Suspicious": "True (6.778343230836277)"
+        },
+        ".rdata": {
+            "Description": "",
+            "Entropy": "6.180338268574492 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "592c5c5c93c1cafa608f53c3f1cbc3d0",
+            "Size": 16015360,
+            "Suspicious": "True (6.180338268574492)"
+        },
+        ".reloc": {
+            "Description": "",
+            "Entropy": "5.484938099994657 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "037ed6401ba8b091525eabef4d22c605",
+            "Size": 133120,
+            "Suspicious": "No"
+        },
+        ".rsrc": {
+            "Description": "",
+            "Entropy": "4.715429093521002 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "95f054e24964f9571557e1151772e1e8",
+            "Size": 131584,
+            "Suspicious": "No"
+        },
+        ".text": {
+            "Description": "",
+            "Entropy": "6.460228297384847 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "31916854ceeddd36082554fbcff8b23c",
+            "Size": 18685440,
+            "Suspicious": "True (6.460228297384847)"
+        },
+        "_RDATA": {
+            "Description": "",
+            "Entropy": "2.926592447250191 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "f3f4c3ac5d50e3e087ea863a7a455793",
+            "Size": 512,
+            "Suspicious": "No"
+        }
+    }
+}

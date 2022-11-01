@@ -1,0 +1,43 @@
+{
+    "General": {
+        "Name": "discord.aio.exe",
+        "bytes": 7500800,
+        "entropy": "7.9510596516495475 (Minimum: 0.0, Maximum: 8.0)",
+        "extension": "application/x-msdownload",
+        "md5": "fdf77ec2a08c8f9d1b4ec71b39b37374",
+        "mime": "application/x-dosexec",
+        "sha1": "9d5f348a3ba33092327928c65aaec022649bbbd4",
+        "sha256": "adcfc111db2505da520e6da458191b9bf876fbba1db00b48f447a9573843280c",
+        "size": "7.15MB"
+    },
+    "Sections": {
+        ".bss": {
+            "Description": "",
+            "Entropy": "0.0 (Minimum: 0.0, Max: 8.0)",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "Size": 0,
+            "Suspicious": "True (0.0)"
+        },
+        ".rdata": {
+            "Description": "",
+            "Entropy": "7.961459095262637 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "895490780bf28859ac826f7f2d5af182",
+            "Size": 7387136,
+            "Suspicious": "True (7.961459095262637)"
+        },
+        ".rsrc": {
+            "Description": "",
+            "Entropy": "2.864059967988354 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "d7a1dbc0fc5361db4114018c019e4377",
+            "Size": 110592,
+            "Suspicious": "No"
+        },
+        ".text": {
+            "Description": "",
+            "Entropy": "4.598345822631093 (Minimum: 0.0, Maximum: 8.0)",
+            "MD5": "ca483218581f6c8ad0f07f6800e56fdd",
+            "Size": 2048,
+            "Suspicious": "No"
+        }
+    }
+}
